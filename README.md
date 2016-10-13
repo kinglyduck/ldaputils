@@ -1,5 +1,5 @@
 # Ldap Utilities
-Script to automate user creation
+Linux script to automate ldap user creation
 
 ### How to use
 `./ldaputils [OPTION]` or `./ldaputils [First Name] [Last Name] [ID]` <br>
